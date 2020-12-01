@@ -9,7 +9,7 @@
       <p><b>地址：浙江省宁波市鄞州区邱隘镇回龙村盛莫路1519号浙江万里学院回龙校区，1号楼，邮编</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      
+      <img src="/retouch_20201121150140.jpg" width="100%">      
     </td>
   </tr>
 </table>
